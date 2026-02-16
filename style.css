@@ -2,6 +2,7 @@ body {
     background-color: black;
     color: white;
     font-size: 14pt;
+    font-family: system-ui;
     margin: 0;
     padding: 0;
 }
