@@ -17,8 +17,7 @@ body {
     overflow-y: auto;
     overflow-x: hidden;
 
-    overflow-wrap: anywhere;
-    contain: layout paint;
+    word-break: break-all;
 }
 
 .content::after {
