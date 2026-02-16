@@ -2,7 +2,6 @@ body {
     background-color: black;
     color: white;
     font-size: 14pt;
-    font-family: monospace;
     margin: 0;
     padding: 0;
 }
@@ -20,7 +19,6 @@ body {
 
     overflow-wrap: anywhere;
     contain: layout paint;
-    white-space: pre-wrap;
 }
 
 .content::after {
